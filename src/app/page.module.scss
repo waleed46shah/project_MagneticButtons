@@ -1,0 +1,25 @@
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    background-color: #292e35;
+    .container{
+        display: flex;
+        svg{
+            width: clamp(1.5rem,3vw,3rem);
+            aspect-ratio: 1/1;
+            padding: 50px;
+            fill: #b0b0c8;
+            transition: fill 0.2s;
+            cursor: pointer;
+            &:hover{
+                fill: #fb5603;
+            }
+        }
+    }
+    p{
+        color:#fefefe;
+    }
+  }
