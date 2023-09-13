@@ -4,8 +4,9 @@ This project demonstrates the magnetic button effect used in awwwards sites. For
 
 ## Technologies
 1. NextJS
-2. Framer Motion
-3. GSAP
+2. SASS
+3. Framer Motion
+4. GSAP
 
 ## Live Demo
 proj-magnetic-buttons.vercel.app/
