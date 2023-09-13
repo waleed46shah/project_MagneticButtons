@@ -9,4 +9,4 @@ This project demonstrates the magnetic button effect used in awwwards sites. For
 4. GSAP
 
 ## Live Demo
-proj-magnetic-buttons.vercel.app/
+https://proj-magnetic-buttons.vercel.app/
